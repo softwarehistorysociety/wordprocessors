@@ -1,0 +1,47 @@
+﻿Version Number,Release Date,Changes
+1.0,"January 11, 2005",Initial release.
+1.0.1,"March 17, 2005",Fixes isolated bugs and issues causing problems to some customers. It also allows the deletion of template pages.
+1.0.2,"May 25, 2005",Addresses issues with page navigation and organization.
+2.0,"January 10, 2006","Released as part of iWork '06. Includes new templates, table calculations, photo masking with shapes and freestyle bezier curves."
+2.0.1,"April 26, 2006",Pages 2.0.1 addresses issues with charts and image adjust. It also addresses a number of other minor issues.
+2.0.1v2,"May 1, 2006",Pages 2.0.1v2 addresses issues with charts and image adjust. It also addresses a number of other minor issues.
+2.0.2,"September 28, 2006",Pages 2.0.2 addresses issues with Aperture compatibility.
+3.0,"August 7, 2007",Pages 3.0 was released as part of iWork '08. It introduces compatibility with Office Open XML (Microsoft Office 2007) files. Introduced Change Tracking. Transparency tool for pictures. Pages 3.0 needs only a third (260 MB) of the hard disk space required for Pages 2.0 (760 MB) despite the added functionality.
+3.0.1,"September 27, 2007",Addresses issues with performance and change tracking.
+3.0.2,"January 29, 2008",This update addresses compatibility with Mac OS X.
+3.0.3,"February 2, 2008",Compatibility issues.
+4.0,"January 6, 2009","Released as part of iWork '09. New features include the ability to edit in full-screen view, better compatibility with Microsoft Office, an outline mode, the option to upload documents to the new iWork.com service, and expanded configurability for the ""track changes"" feature (including the option to turn off change balloons while keeping comment balloons visible)."
+4.0.1,"March 26, 2009","Improves reliability when working with EndNote X2 or MathType 6, or deleting Pages files."
+4.0.2,"May 28, 2009",Improves reliability when saving documents.
+4.0.3,"September 28, 2009","Improves reliability with full-screen mode, applying transparency to images, and EndNote citations."
+4.0.4,"August 26, 2010",Adds support for exporting to the EPUB format (for use with iBooks) and fixes problems with tables.
+4.0.5,"January 5, 2011",Improves the readability of exported EPUB documents.
+4.1,"July 20, 2011","Adds support for Mac OS X Lion, including Full-Screen, Resume, Auto Save, Versions, and Character picker. Improves Microsoft Office Compatibility."
+4.2,"July 25, 2012",Adds support for OS X Mountain Lion and storing documents in iCloud.
+4.3,"December 4, 2012",Adds support for iWork for iOS 1.7 apps.
+5.0,"October 22, 2013","Adds online collaboration across Macs and iOS devices as well as over the web via iCloud.com. Removes many advanced features, including mail merge, text box linking, default zoom setting, book format, page count, bookmarks, images in tables, and ability to read/export RTF files."
+5.0.1,"November 21, 2013",The ability to customize the toolbar with your most important tools. Stability improvements and bug fixes.
+5.1,"January 24, 2014",Adds back vertical ruler and a few other features. Stability improvements and bug fixes.
+5.2,"April 1, 2014","Adds ""view only"" option for sharing via iCloud. Improved support for bi-directional languages such as Hebrew and Arabic. Improved Instant Alpha, text boxes, EPUB exporting, and AppleScript support."
+5.2.2,"August 21, 2014",Stability improvements and bug fixes.[17]
+5.5.1,"November 6, 2014",Stability improvements and bug fixes.[17]
+5.5.2,"January 8, 2015",Stability improvements and bug fixes.[17]
+5.5.3,"April 21, 2015",Stability improvements and bug fixes.[17]
+5.6,"October 15, 2015","Enhancements for OS X El Capitan, stability improvements, and bug fixes.[17]"
+5.6.1,"November 11, 2015",Stability improvements and bug fixes.[17]
+5.6.2,"May 10, 2016",Stability improvements and bug fixes.[17]
+6.0,"September 20, 2016","Updated for macOS Sierra, including real-time Collaboration (Beta), support for Pages '05 documents, and added tabs to open multiple documents in one window.[18]"
+6.0.5,"October 27, 2016","Support for the Touch Bar on the 2016 MacBook Pro, and stability and performance improvements."
+6.1,"March 27, 2017","Superscript/subscript formatting support, LaTeX and MathML equation support, Touch ID support, import/export support for RTF, ligature support and customizable date/time/currency support.[19]"
+6.2,,"Updated alongside Numbers and Keynote with a new shape library, comment reply support, and ""Auto-Correction"" preferences pane. New Pages-specific features include linked text boxes and the ability to create EPUB fixed layout files.[21]"
+6.3.1,"November 17, 2017",Improved PDF export to view a document's table of contents in the sidebar in Preview and other PDF viewer apps. Drag and drop rows in tables that span multiple pages.
+7.0,"March 27, 2018",Make digital books using new book templates. Collaborate in real time on documents stored in Box (requires macOS High Sierra). View pages side by side as you work. Turn on facing pages to format your document as two-page spreads. Add an image gallery to view a collection of photos on the same page. Create master pages to keep the design consistent across your page layout document. Use donut charts to visualize data. Adds a variety of new editable shapes. Additional options for reducing the file size of documents. New option to automatically format fractions as you type.[22]
+7.0.1,"May 3, 2018",Stability and performance improvements.
+7.1,"June 18, 2018",Track text changes in shapes and text boxes. Add colors and images to backgrounds in page layout documents. Rounded corners on columns and bars for charts. Add mathematical equations to page layout documents using LaTeX or MathML notation. A variety of new editable shapes. Improved support for Arabic and Hebrew.
+7.2,"September 17, 2018","Record, edit, and play audio right on a page. ""Dark Mode"" support. Continuity camera, allowing to take a photo or scan a document with an iPhone or iPad and it automatically appears in the document."
+7.3,"November 7, 2018",Publish books directly to Apple Books for download or purchase.[22]
+8.0,"March 28, 2019","Use the new table of contents view to easily navigate a document or book. Automatically sync custom shapes and templates to all devices using iCloud. Add alignment guides to master pages to help with layout. Improved performance while collaborating on documents. Insert tables of contents and edit grouped objects while collaborating. In Chinese, Japanese, and Korean languages, one can now type vertically in the entire document or in an individual text box."
+8.1,"June 25, 2019","Style text by filling it with gradients or images, or by applying new outline styles. Copy and paste pages or sections between documents. Create links from text to other pages in a page layout document. Place images, shapes, and equations inline in text boxes so they move with text. Using face detection, subjects in photos are intelligently positioned in placeholders and objects. Reapply a master page so text and media placeholders return to their default style and position. Create books using new templates for novels (available in English only)."
+8.2,"September 30, 2019","Set the default font and font size used for all new documents created from basic templates. Jump to a specific page in your document using a new menu command. Add HEVC-formatted movies to documents, enabling reduced file size while preserving visual quality."
+10.0,"March 31, 2020","New templates (Select from a variety of new templates). Cloud Drive folder sharing. Drop caps: Add a drop cap to make a paragraph stand out with a large, decorative first letter. Apply a color, gradient, or image to the background of any document. Easily access your recently used templates in a redesigned template chooser. Print or export a PDF of your document with comments included. Edit shared documents while offline and your changes will upload when you’re back online. Enhance your documents with a variety of new, editable shapes."
+10.1,"July 9, 2020","Play YouTube and Vimeo videos right in documents. Add captions and titles to images, videos, shapes, and other objects. Create more flexible formulas using new functions. Import an iBooks Author book to work on it in Pages."

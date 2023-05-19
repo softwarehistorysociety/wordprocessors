@@ -1,0 +1,3 @@
+# “Fade In has everything you’d want from screenwriting software. It’s stable, elegant, stable, full featured, stable, affordable, and stable.”   Knives Out, Star Wars: Episode VIII - The Last Jedi
+
+Column 2: “I’ve written screenplays from conception to completion in every screenwriting software that exists today. There is none better, none more simple and useful and fully-featured, than Fade In.”   xXx: Return of Xander Cage

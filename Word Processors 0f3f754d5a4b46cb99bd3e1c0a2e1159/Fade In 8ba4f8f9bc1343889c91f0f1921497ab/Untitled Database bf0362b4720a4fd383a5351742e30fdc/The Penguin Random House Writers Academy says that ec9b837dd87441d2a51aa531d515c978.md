@@ -1,0 +1,3 @@
+# The Penguin Random House Writers Academy says that “It’s the most feature-rich software of its kind... The whole package.” Read more
+
+Leading industry trade journal The Hollywood Reporter writes that Fade In Professional Screenwriting Software “takes on the behemoth that is Final Draft” with a “a slick user interface and plethora of unique features”, leading to the question: “How has this...not been included in every other screenwriting program?” Read more: See some of the very nice things that people are saying about Fade In Professional Screenwriting Software on Twitter. Read more

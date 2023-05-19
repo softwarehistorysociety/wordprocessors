@@ -1,0 +1,23 @@
+# Electric Pencil
+
+URL: https://en.wikipedia.org/wiki/Electric_Pencil
+
+**Electric Pencil**, released in December 1976 by Michael Shrayer, was the first [word processor](https://en.wikipedia.org/wiki/Word_processor) for home computers.
+
+## History[[edit](https://en.wikipedia.org/w/index.php?title=Electric_Pencil&action=edit&section=1)]
+
+In 1975, Michael Shrayer had moved to California after 20 years as a New York filmmaker. Enjoying assembling [electronic kits](https://en.wikipedia.org/wiki/Electronic_kit), he purchased and assembled a [MITS Altair 8800](https://en.wikipedia.org/wiki/Altair_8800) computer, then modified a [public domain](https://en.wikipedia.org/wiki/Public_domain) [assembler program](https://en.wikipedia.org/wiki/Assembler_for_an_assembly_language) for the [Processor Technology Sol-20](https://en.wikipedia.org/wiki/Sol-20). Fellow computer hobbyists wanted to buy Shrayer's ESP-1 software, giving him an unexpected and lucrative new business.[[1][2][3][4]](https://en.wikipedia.org/wiki/Electric_Pencil)
+
+Having never heard of a "[word processor](https://en.wikipedia.org/wiki/Word_processor)", Shrayer nonetheless believed that he should be able to use his computer, instead of a typewriter, to write documentation for his program, and thus wrote another program—the first word processor for a microcomputer—with which to do so. Electric Pencil for the Altair appeared in December 1976, and the version for the Sol-20 became especially popular. As no large network of computer stores existed, Shrayer formed Michael Shrayer Software Inc.—a decision he regretted, as naming the company after himself cost him his privacy—advertised in computer magazines such as [BYTE](https://en.wikipedia.org/wiki/Byte_(magazine)), and sold the program via mail order. Electric Pencil required 8K of memory and an [Intel 8080](https://en.wikipedia.org/wiki/Intel_8080) or [Zilog Z80](https://en.wikipedia.org/wiki/Zilog_Z80) processor. As customers requested the program for their specific computers and operating systems he ported the word processor to each, resulting in 78 versions including the [NorthStar Horizon](https://en.wikipedia.org/wiki/NorthStar_Horizon) and [TRS-80](https://en.wikipedia.org/wiki/TRS-80).[[1][2][3][5]](https://en.wikipedia.org/wiki/Electric_Pencil)
+
+Electric Pencil was the first program for microcomputers to implement a basic feature of word processors: word wrap, in which lines are adjusted as words are inserted and deleted.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
+
+Electric Pencil's market dominance might have continued had Shrayer continued to update it. Many imitators appeared, however, including [WordStar](https://en.wikipedia.org/wiki/WordStar) and [Magic Wand](https://en.wikipedia.org/wiki/Sage_50_Accounting), both of which surpassed the original's popularity as Shrayer became bored with programming and sold its rights to others. Electric Pencil remained on the market into the 1980s, including a version for the [IBM PC](https://en.wikipedia.org/wiki/IBM_PC) in 1983,[[1][5][6][4]](https://en.wikipedia.org/wiki/Electric_Pencil) but by 1982 [James Fallows](https://en.wikipedia.org/wiki/James_Fallows) described it as "outdated and crude" compared to newer products like [Perfect Writer](https://en.wikipedia.org/wiki/Perfect_Writer) and [Scripsit](https://en.wikipedia.org/wiki/Scripsit).[[7]](https://en.wikipedia.org/wiki/Electric_Pencil)
+
+## Notable use[[edit](https://en.wikipedia.org/w/index.php?title=Electric_Pencil&action=edit&section=2)]
+
+[Jerry Pournelle](https://en.wikipedia.org/wiki/Jerry_Pournelle) is recognized as the first author to have written a published portion of a book using a [word processor](https://en.wikipedia.org/wiki/Word_processor) on a [personal computer](https://en.wikipedia.org/wiki/Personal_computer), using Electric Pencil for that purpose. In 1977, Pournelle was shown the program and decided it would help his productivity by making it easier to produce a final manuscript without requiring a complete retyping of edited pages.[[8]](https://en.wikipedia.org/wiki/Electric_Pencil)
+
+## [[edit](https://en.wikipedia.org/w/index.php?title=Electric_Pencil&action=edit&section=3)]
+
+[RIP Jerry Pournelle, the first author to write a novel on a computer - The Verge](Electric%20Pencil%207b3d35f390bd4ca7aa7398553c3e1c25/RIP%20Jerry%20Pournelle,%20the%20first%20author%20to%20write%20a%20n%20df97f0980def4bc4a18085f28cbd4bd6.md)
